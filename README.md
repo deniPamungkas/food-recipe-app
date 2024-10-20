@@ -18,7 +18,7 @@ git clone https://github.com/deniPamungkas/food-recipe-app.git
 ## 2. move to project folder
 
 ```bash
-cd cd food-recipe-app
+cd food-recipe-app
 ```
 
 ## 3. Install Node Package Manager
